@@ -1,0 +1,62 @@
+VAR a = --1 + 2
+VAR c = 7 - 9 
+VAR d = 10 / 4
+VAR e = 7 * (5 - 3)
+VAR f = d + 2 * -3
+VAR nr_mare = 100 * 2.5 / (1 + 3)
+VAR ridicarea_la_putere = 8 ^ a
+VAR str_string = "STRING type"
+VAR asdf = 2.6655
+
+10 == 10 AND 88 == 88
+4 == 9
+VAR w = 2 + 3 == 5 OR 9 + 78 == 120
+VAR z_z_1 = NOT 1
+4 >= 9
+152.2 != 152
+
+
+IF z_z_1 == TRUE THEN VAR ridicarea_la_putere = 3.54
+IF f >= 1000 THEN VAR f = f / 1000 ELIF f < nr_mare / 0.2 THEN VAR nr_mare = f ^ 3
+IF a == 152 THEN VAR a = 77777 ELSE VAR b = NOT NOT w
+IF 10 / c > 7 AND b != 30 THEN VAR str = "STEP RIGHT" ELIF 5000 == ridicarea_la_putere THEN VAR t2 = 7 ELSE VAR t2 = 2
+
+VAR step_1 = IF step >= 117 THEN 40 ELSE 20
+
+VAR result = FOR i = 1 TO 10 THEN a * i
+VAR d = WHILE c > 0 THEN result - 1
+
+
+FOR i = 0 TO 8 INCREMENT 2 THEN result - 1
+
+FUNCTION addition(a, b, c) -> a + c + b
+
+VAR program = FUNCTION (each_step) -> each_step / 3 
+program(3985)
+
+[1, 2, 3, 4]
+[1, 2, 3, 4] + 548465568
+[78, 216, 3454] - -1
+[78, 216, 3454] - 1
+[78, 216, 3454] * [996, 645] / 3
+
+FOR i = 0 TO 3 THEN aaa * i
+IF aaa >= c THEN aaa + 3.5 
+
+FUNCTION operation(d, e, g, h) -> d * (e + g) / h - 50
+
+
+FUNCTION do(a, b) -> FOR i = 0 TO a THEN IF multiply(64, 23) <= 522 THEN VAR b = "STEP LEFT"
+
+
+
+
+NOTE!!!
+(in terminal)
+
+VAR a = --1 + 2
+VAR c = 7 - 9
+a-c*6
+
+(firstly declare the variables in the terminal, then use them as well in the terminal, in the way you like)
+(you don't need to redeclare the variable in the terminal, if it has been already declared in the terminal (VAR))
